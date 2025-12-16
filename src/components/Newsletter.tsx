@@ -52,7 +52,7 @@ const Newsletter = () => {
               <h3 className="text-2xl font-bold">
                 Stay Updated with{" "}
                 <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                  VERS
+                  M2SV
                 </span>
               </h3>
               <p className="text-muted-foreground">

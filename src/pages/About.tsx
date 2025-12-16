@@ -57,7 +57,7 @@ const About = () => {
             <h1 className="text-4xl md:text-6xl font-bold">
               About{" "}
               <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                VERS Technologies
+                M2SV Technologies
               </span>
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground">
@@ -74,7 +74,7 @@ const About = () => {
             <div className="space-y-6 animate-slide-in-left">
               <h2 className="text-3xl md:text-4xl font-bold">Our Story</h2>
               <p className="text-muted-foreground leading-relaxed">
-                Founded in 2010, VERS Technologies began with a simple mission: to help businesses navigate the complexities of digital transformation. What started as a small consulting firm has grown into a global technology powerhouse.
+                Founded in 2010, M2SV Technologies began with a simple mission: to help businesses navigate the complexities of digital transformation. What started as a small consulting firm has grown into a global technology powerhouse.
               </p>
               <p className="text-muted-foreground leading-relaxed">
                 Today, we serve over 500 clients across 50 countries, delivering innovative solutions in cloud computing, cybersecurity, software development, and AI automation. Our success is built on a foundation of technical excellence, customer obsession, and relentless innovation.

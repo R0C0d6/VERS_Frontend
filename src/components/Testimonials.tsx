@@ -8,7 +8,7 @@ const Testimonials = () => {
 
   const testimonials = [
     {
-      quote: "VERS Technologies transformed our entire infrastructure. Their cloud migration expertise saved us 60% on operational costs while improving performance significantly.",
+      quote: "M2SV Technologies transformed our entire infrastructure. Their cloud migration expertise saved us 60% on operational costs while improving performance significantly.",
       author: "Sarah Johnson",
       role: "CTO, Global Finance Corp",
       company: "Fortune 500 Financial Institution",

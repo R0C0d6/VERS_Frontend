@@ -101,7 +101,7 @@ const Careers = () => {
             <h1 className="text-4xl md:text-6xl font-bold">
               Build Your Career at{" "}
               <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                VERS
+                M2SV
               </span>
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground">

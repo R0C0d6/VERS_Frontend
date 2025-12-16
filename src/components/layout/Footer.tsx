@@ -38,7 +38,7 @@ const Footer = () => {
                 <span className="text-2xl font-bold text-primary-foreground">V</span>
               </div>
               <span className="text-lg font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                VERS Technologies
+                M2SV Technologies
               </span>
             </div>
             <p className="text-sm text-muted-foreground">
@@ -115,7 +115,7 @@ const Footer = () => {
         <div className="mt-12 pt-8 border-t border-border">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-sm text-muted-foreground">
-              © {currentYear} VERS Technologies. All rights reserved.
+              © {currentYear} M2SV Technologies. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <Link to="#" className="text-sm text-muted-foreground hover:text-primary transition-smooth">

@@ -27,7 +27,7 @@ const Header = () => {
               <span className="text-2xl font-bold text-primary-foreground">V</span>
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              VERS Technologies
+              M2SV Technologies
             </span>
           </Link>
 
