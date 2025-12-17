@@ -25,7 +25,7 @@ const Services = () => {
         "Disaster recovery and backup",
       ],
     },
-    {
+    {/*    {
       id: "security",
       icon: Shield,
       image: securityIcon,
@@ -39,7 +39,7 @@ const Services = () => {
         "Identity and access management",
         "Security training and awareness",
       ],
-    },
+    }, */},
     {
       id: "development",
       icon: Code,
