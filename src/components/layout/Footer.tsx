@@ -15,7 +15,7 @@ const Footer = () => {
 
   const services = [
     { name: "Cloud Computing", href: "/services#cloud" },
-    { name: "Cybersecurity", href: "/services#security" },
+    /* replace with something */
     { name: "Software Development", href: "/services#development" },
     { name: "IT Consulting", href: "/services#consulting" },
     { name: "AI & Automation", href: "/services#ai" },

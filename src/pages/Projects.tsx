@@ -12,14 +12,7 @@ const Projects = () => {
       technologies: ["AWS", "Kubernetes", "PostgreSQL", "React"],
       impact: ["60% cost reduction", "99.99% uptime", "3x faster deployments"],
     },
-    {
-      title: "Healthcare Security Compliance",
-      client: "Leading Healthcare Provider",
-      category: "Cybersecurity",
-      description: "Implemented comprehensive HIPAA-compliant security infrastructure protecting 5M+ patient records.",
-      technologies: ["Zero Trust", "SIEM", "Encryption", "IAM"],
-      impact: ["HIPAA compliant", "Zero security incidents", "5M+ records protected"],
-    },
+    /* replace with something */
     {
       title: "E-Commerce Platform Rebuild",
       client: "Top 10 Online Retailer",

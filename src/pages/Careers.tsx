@@ -14,13 +14,6 @@ const Careers = () => {
       description: "Lead cloud architecture design and implementation for enterprise clients.",
     },
     {
-      title: "Cybersecurity Engineer",
-      department: "Security",
-      location: "New York, NY",
-      type: "Full-time",
-      description: "Design and implement security solutions for financial and healthcare clients.",
-    },
-    {
       title: "Full Stack Developer",
       department: "Engineering",
       location: "Remote",

@@ -25,21 +25,7 @@ const Services = () => {
         "Disaster recovery and backup",
       ],
     },
-    {/*    {
-      id: "security",
-      icon: Shield,
-      image: securityIcon,
-      title: "Cybersecurity Services",
-      description: "Protect your digital assets with comprehensive security solutions and compliance frameworks.",
-      features: [
-        "Security audits and assessments",
-        "Penetration testing",
-        "Compliance management (SOC 2, ISO 27001)",
-        "Threat detection and response",
-        "Identity and access management",
-        "Security training and awareness",
-      ],
-    }, */},
+    /* replace with something */
     {
       id: "development",
       icon: Code,

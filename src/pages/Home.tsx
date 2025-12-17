@@ -12,11 +12,7 @@ const Home = () => {
       title: "Cloud Computing",
       description: "Scalable cloud infrastructure and migration solutions for modern businesses.",
     },
-    {
-      icon: Shield,
-      title: "Cybersecurity",
-      description: "Advanced threat protection and compliance solutions to safeguard your data.",
-    },
+    /* replace with something else */
     {
       icon: Code,
       title: "Software Development",
